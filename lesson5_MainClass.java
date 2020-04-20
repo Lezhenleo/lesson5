@@ -1,5 +1,5 @@
 package ru.homework.lesson5;
-//
+//MainClass
 import java.util.Scanner;
 
 public class MainClass {
