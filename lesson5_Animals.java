@@ -1,5 +1,5 @@
 package ru.homework.lesson5;
-//Животные
+//Animals
 public abstract class Animals extends Object {
     protected String name;
     protected double max_length;
